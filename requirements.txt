@@ -1,3 +1,8 @@
 pandas
 kaggle
 requests
+panel
+seaborn
+hvplot
+collections
+holoviews
